@@ -21,7 +21,8 @@ const allowedOrigins = [
   "https://expense-tracker-app-three-beryl.vercel.app",
   "http://localhost:3000",
   "http://localhost:5000",
-  // add more origins as needed - ADD YOUR VERCEL FRONTEND URL HERE
+  "https://penny-pilot-alpha.vercel.app/login"
+  
 ];
 
 // Middleware
